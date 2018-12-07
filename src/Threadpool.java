@@ -19,7 +19,7 @@ public class Threadpool {
         while (!executorService.isTerminated()){
 
         }
-        System.out.println("All threads processed");
+        System.out.println("All threads are processed successfully");
         System.out.println("<=========== main ended ============>");
 
     }
